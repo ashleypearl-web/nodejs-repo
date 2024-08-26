@@ -1,0 +1,15 @@
+{
+    "name": "Ashley-nodejs-image",
+    "version": "1.0.0",
+    "description": "Ashley Demo App",
+    "author": "DevopswithAshleypearl", 
+    "license": "MIT",
+    "main": "app.js",
+    "keywords": [
+    "nodejs", 
+    "bootstrap", 
+    "express"
+    ], 
+    "dependencies": {
+    "express": "^4.16.4" }
+}
